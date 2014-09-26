@@ -1,0 +1,198 @@
+    1  ls -ltr
+    2  sudo gedit /etc/cntlm.conf 
+    3  bg
+    4  cd
+    5  find . -name *.crt -print 2>/dev/null
+    6  cd Downloads/
+    7  ls
+    8  vi eduroam-linux-IoTT_Linux.sh 
+    9  cd
+   10  sudo gedit /etc/cntlm.conf 
+   11  sudo gedit /etc/cntlm.conf 
+   12  bg
+   13  cntlm -M
+   14  cntlm -H
+   15  cntlm -H
+   16  cntlm -H
+   17  cntlm -H
+   18  sudo service cntlm restart
+   19  cntlm -H
+   20  cntlm -H cntlm.conf
+   21  cntlm cntlm.conf -H
+   22  cntlm -H
+   23  cntlm -H www.sun.com
+   24  cntlm -H
+   25  cntlm -H
+   26  ls /etc
+   27  sudo mv /etc/cntlm.conf /etc/cntlm.conf.old
+   28  cntlm -H
+   29  ls
+   30  sudo apt-get remove cntlm
+   31  sudo apt-get install cntlm
+   32  sudo apt-get remove cntlm
+   33  sudo apt-get install cntlm
+   34  sudo service start cntlm
+   35  sudo apt-get install cntlm
+   36  sudo service start 
+   37  sudo service cntlm start
+   38  sudo service cntlm start -v
+   39  sudo apt-get remove cntlm
+   40  sudo apt-get install cntlm
+   41  sudo apt-get remove cntlm
+   42  sudo apt-get install cntlm
+   43  sudo apt-get remove cntlm
+   44  find / -name cntlm.conf -print
+   45  find / -name cntlm.conf -print 2>/dev/nul
+   46  find / -name cntlm.conf -print 2>/dev/null
+   47  sudo apt-get remove cntlm
+   48  sudo apt-get install cntlm
+   49  sudo apt-get install cntlm
+   50  ls /etc/cntlm.conf
+   51  sudo apt-get purge cntlm
+   52  sudo apt-get install cntlm
+   53  find / -name cntlm.conf -print 2>/dev/null
+   54  cntlm -H
+   55  sudo vi /etc/cntlm.conf
+   56  cntlm -H
+   57  fg
+   58  sudo service cntlm restart
+   59  vi eduroam-linux-IoTT_Linux.sh 
+   60  sudo vi /etc/cntlm.conf
+   61  cntlm -M
+   62  cntlm -H -c /etc/cntlm.conf
+   63  cntlm -c /etc/cntlm.conf -H
+   64  cntlm -H
+   65  cntlm -c /etc/cntlm.conf -H
+   66  cntlm -c /etc/cntlm.conf 
+   67  cntlm -H -u jburns@stf
+   68  sudo vi /etc/cntlm.conf
+   69  sudo service cntlm restart
+   70  sudo vi /etc/cntlm.conf
+   71  sudo service cntlm restart
+   72  sudo service cntlm restart
+   73  sudo service cntlm restart
+   74  ls -ltr
+   75  rm *.cer
+   76  ls
+   77  chef
+   78  ls /opt
+   79  /opt/chef/bin/chef-solo
+   80  sudo shutdown -r now
+   81  ls -ltr
+   82  vi .profile 
+   83  export http_proxy=http://localhost:3128
+   84  echo $GIT_SSL_NO_VERIFY
+   85  echo $http_proxy
+   86  export RUN=5
+   87  echo $RUN
+   88  export RUN=5
+   89  export http_proxy=http://localhost:3128
+   90  echo $GIT_SSL_NO_VERIFY
+   91  echo $RUN
+   92  export http_proxy=http://localhost:3128
+   93  sudo -E apt-get install git
+   94  mkdir EAA
+   95  cdEAA
+   96  cd EAA
+   97  ls -l
+   98  touch README.md
+   99  ls -l
+  100  git init
+  101  git add README.md
+  102  git commit -m "first commit"
+  103  git config --global x00090749@ittd.ie
+  104  git config --global x00090749.x00090749"ittd.ie
+  105  git config --global x00090749.Daniel
+  106  git config --global user.email "x00090749@ittd.ie"
+  107  git config --global user.name "x00090749"
+  108  git commit -m "first commit"
+  109  git remot add origin https://github.com/x00090749/personal.git
+  110  git remote add origin https://github.com/x00090749/personal.git
+  111  git push -u origin master
+  112  change file
+  113  git commit -A
+  114  git commit -a
+  115  history | grep push
+  116  git push -u origin master
+  117  history | grep push
+  118  git add -A
+  119  ls
+  120  gedit README.md
+  121  history
+  122  git add -A
+  123  git commit -a
+  124  ls
+  125  export http_proxy=http://localhost:3128
+  126  echo $GIT_SSL_NO_VERIFY
+  127  ls
+  128  git commit -a
+  129  git remot add origin https://github.com/x00090749/personal.git
+  130  git remote add origin https://github.com/x00090749/personal.git
+  131  git push -u origin master
+  132  export GIT_SSL_NO_VERIFY=1
+  133  export http_proxy=http://localhost:3128
+  134  mint@mint-VirtualBox ~ $ export GIT_SSL_NO_VERIFY=1
+  135  mint@mint-VirtualBox ~ $ export http_proxy=http://localhost:3128
+  136  mint@mint-VirtualBox ~ $ echo $GIT_SSL_NO_VERIFY
+  137  1
+  138  mint@mint-VirtualBox ~ $ echo $http_proxy
+  139  http://localhost:3128
+  140  mint@mint-VirtualBox ~ $ ^C
+  141  mint@mint-VirtualBox ~ $ 
+  142  history
+  143  sudo -E apt-get install git
+  144  git config --global user.email "x00090749@ittd.ie"
+  145  git config --global user.name "x00090749"
+  146  mkdir EAA
+  147  cd EAA
+  148  ls -l
+  149  git init
+  150  add README.md
+  151  touch README.md
+  152  ls -l
+  153  git init
+  154  git add README.md
+  155  git commit -m "first commit"
+  156  git remote add origin https://github.com/x00090749/Personal.git
+  157  git push -u origin master
+  158  cat /proc/cpuinfo | grep processor | wc -1
+  159  cat /proc/cpuinfo | grep processor | wc -l
+  160  cat /proc/cpuinfo | grep processor | wc -l > scripting.txt
+  161  scripting.txt
+  162  echo scripting.txt
+  163  scripting.txt
+  164  ls -l
+  165  git add -A
+  166  gedit Scripting.txt
+  167  gedit Scripting.txt
+  168  gedit Scripting.txt
+  169  git commit -a
+  170  git push origin master
+  171  grep processor | wc -l > scripting.txt
+  172  grep processor | wc -l
+  173  grep processor /proc/cpuinfo | wc -l
+  174  cd
+  175  cd EAA
+  176  vi cpucount.sh
+  177  grep processor /proc/cpuinfo | wc -l
+  178  mk cpucount.sh
+  179  rm cpucount.sh
+  180  man mkdir
+  181  rm cpucount.sh
+  182  vi cpucount.sh
+  183  vi cpucount.sh
+  184  history
+  185  vi cpucount.sh
+  186  ls
+  187  grep processor /proc/cpuinfo | wc -l
+  188  grep processor /proc/cpuinfo | wc -l
+  189  scripting.sh
+  190  run scripting.sh
+  191  ls
+  192  git add -A
+  193  git commit -a
+  194  git push origin master
+  195  git push origin master
+  196  git commit -a
+  197  git push origin master
+  198  history > history.txt
